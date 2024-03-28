@@ -26,7 +26,7 @@ def make(characters):
     return ans
 try:
     while True:
-        characters = int(input("How many characters would you like your password to be: "))
+        characters = int(input("How Many Characters Would You Like Your Password To Be: "))
         ans = make(characters)
         break
 
@@ -34,7 +34,7 @@ try:
 except ValueError:
     while True:
         try:
-            characters = int(input("Needs to be a number. How many characters would you like your password to be: "))
+            characters = int(input("Needs To Be A Number. How Many Characters Would You Like Your Password To Be: "))
             ans = make(characters)
             break
         except ValueError:
