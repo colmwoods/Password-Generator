@@ -14,11 +14,11 @@ Your Output:
 Here You Type In How Long You Want Your Passcode To Be. The Largest Password You Need To Generate Is Properly 64 Characters But Feel Free To Generate Larger Passcodes. For This Example We Will Use 8
 
  
-         8
+         12
 
 
 Your Output:
- ## Your New Password Is: xFxbi1=8 ##
+ ## Your New Password Is: 8A2?z1THifAh ##
 Congrats Its That Simple. Thats The Generated Password That You Can Use For Your Accounts. Very Secure And Safe Password
 
 
